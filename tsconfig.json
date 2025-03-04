@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"target": "ES2022",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"moduleResolution": "nodenext"
+	}
+}
